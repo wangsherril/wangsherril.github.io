@@ -6,7 +6,7 @@ subtitle: <a href='https://www.sfu.ca/math.html'>Simon Fraser University</a>. xw
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.avif
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>K9506</p>
