@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.sfu.ca/math.html'>Simon Fraser University</a>. xwa265@sfu.ca
 
 profile:
   align: right
