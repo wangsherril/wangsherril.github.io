@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.sfu.ca/math.html'>Simon Fraser University</a>. xwa265@sfu.ca
 
