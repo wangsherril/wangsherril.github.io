@@ -192,7 +192,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/repositories.md
+  - _data/repositories.yml
   - _pages/cv.md
 keep_files:
   - CNAME
