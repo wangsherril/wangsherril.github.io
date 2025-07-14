@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-🧑‍💻 Participating in the 2025 M2PI Workshop (May 5–23), collaborating with four teammates on an industry project with [Type One Energy](https://typeoneenergy.com/).
+🧑‍💻 Participating in the 2025 M2PI Workshop (May 5–23), collaborating with four teammates on an industry project with [Type One Energy](https://typeoneenergy.com/). 
