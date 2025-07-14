@@ -1,23 +1,53 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: CV
+permalink: /cv/
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+toc: false
+hide_title: true
 ---
 
-## 📄 Download My Academic CV
+<style>
+.page-title {
+  display: none !important;
+}
 
-You can download the full academic CV in PDF format here:
+.cv-container {
+  text-align: center;
+  margin: 3rem auto 2rem auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #1a1a1a;
+}
 
-[Download CV (PDF)](/assets/pdf/Xuemeng_Wang_CV.pdf){:target="_blank"}
+.cv-container h2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
 
----
+.cv-container a.download-link {
+  color: #007aff;
+  font-size: 1.05rem;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 2rem;
+}
 
-## 👁️ Preview of My CV
+.cv-container a.download-link:hover {
+  text-decoration: underline;
+}
 
-<iframe src="/assets/pdf/Xuemeng_Wang_CV.pdf" width="100%" height="800px" style="border: 1px solid #ccc;"></iframe>
+.cv-iframe {
+  width: 100%;
+  height: 90vh;
+  border: none;
+}
+</style>
+
+<div class="cv-container">
+  <h2>My academic CV <small>(updated on July 2025)</small></h2>
+  <a class="download-link" href="/assets/pdf/Xuemeng_Wang_CV.pdf" target="_blank">📄 Download PDF</a>
+</div>
+
+<iframe class="cv-iframe" src="/assets/pdf/Xuemeng_Wang_CV.pdf#toolbar=1&navpanes=0" allowfullscreen></iframe>

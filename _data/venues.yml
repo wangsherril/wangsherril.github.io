@@ -7,3 +7,13 @@
 
 "Vision":
   color: "#009f36"
+
+SIAP2024:
+  name: "SIAM Journal on Applied Mathematics"
+  url: "https://doi.org/10.1137/22M1518001"
+  image: "/assets/img/publication_preview/patterns.jpg" 
+
+PRFluids2022:
+  name: "Physical Review Fluids"
+  url: "https://link.aps.org/doi/10.1103/PhysRevFluids.7.123302"
+  image: "/assets/img//publication_preview/viscoplastic.pdf"
