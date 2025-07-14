@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 Started the joint doctoral program in Applied and Computational Mathematics at Simon Fraser University!
+🎓 Started the doctoral program in Applied and Computational Mathematics at Simon Fraser University!
