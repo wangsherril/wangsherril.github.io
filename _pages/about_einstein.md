@@ -1,5 +1,8 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I’m Xuemeng Wang, a Ph.D. student in Applied and Computational Mathematics at Simon Fraser University.  
+My research focuses on applied mathematics, particularly in scientific computing, scientific machine learning, and active learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my B.Sc. in Mathematics and Statistics from Hong Kong Baptist University and completed an M.Sc. in Applied Mathematics at the University of British Columbia.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of research, I enjoy musical theater and gaming. Lately, I’ve been exploring music production and trying out rock climbing — both challenging in their own fun ways!
+
+If you’d like to chat, feel free to drop me an email: ✉️ xwa265@sfu.ca
